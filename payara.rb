@@ -1,9 +1,9 @@
 class Payara < Formula
   desc ""
   homepage ""
-  url "https://s3-eu-west-1.amazonaws.com/payara.fish/Payara+Downloads/Payara+4.1.1.171.1/payara-4.1.1.171.1.zip"
-  version "4.1.1.171.1"
-  sha256 "6567a95d104586b580274581ebcddd55a2d52e890340963886f7b3ae3d973da8"
+  url "https://s3-eu-west-1.amazonaws.com/payara.fish/Payara+Downloads/Payara+4.1.2.173/payara-4.1.2.173.zip"
+  version "4.1.2.173"
+  sha256 "944fae8fa38e83cf291e6176152827113a4733174096c49a2cf3d218ba1ad7f2"
 
   bottle :unneeded
 
